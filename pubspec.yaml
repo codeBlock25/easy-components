@@ -1,7 +1,7 @@
 name: widget_helper
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://wavercode.com
 publish_to: none
 
 environment:
@@ -9,8 +9,6 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  digs_sanctuary_api:
-    path: ../digs_sanctuary_api
   flutter:
     sdk: flutter
   get: ^4.3.8
