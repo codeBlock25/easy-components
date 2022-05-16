@@ -1,4 +1,4 @@
-part of 'components.dart';
+part of widget_component;
 
 Widget buildLineDec({required double length}) {
   return Container(

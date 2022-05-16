@@ -1,4 +1,4 @@
-part of 'utility.dart';
+part of widget_utility;
 
 extension ToString on DateTime {
   String fromDateToString() {

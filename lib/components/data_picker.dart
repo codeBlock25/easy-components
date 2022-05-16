@@ -1,4 +1,4 @@
-part of 'components.dart';
+part of widget_component;
 
 void buildCupertinoDatePicker(BuildContext context,
     {required void Function(DateTime) setter,

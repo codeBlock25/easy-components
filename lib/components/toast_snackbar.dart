@@ -1,4 +1,4 @@
-part of 'components.dart';
+part of widget_component;
 
 enum ToastSnackBarType { danger, warning, info, notify, success, norm }
 Color _getTextColor(BuildContext context, ToastSnackBarType type) {

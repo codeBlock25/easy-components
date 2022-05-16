@@ -1,4 +1,4 @@
-part of 'components.dart';
+part of widget_component;
 
 class PageIndicator extends StatelessWidget {
   const PageIndicator({Key? key, this.isActive = false}) : super(key: key);
